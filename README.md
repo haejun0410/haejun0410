@@ -9,7 +9,7 @@
 <!--Skill-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/java-61DAFB.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/java-2F2625.svg?style=for-the-badge&logo=coffeescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div><br>
@@ -19,14 +19,19 @@
   <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp<br>
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/flask-white.svg?style=for-the-badge&logo=flask&logoColor=000000" />&nbsp
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=notion&logoColor=000000" />&nbsp
+</div><br>
+<div align="center">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-394EFF.svg?style=for-the-badge&logo=virustotal&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 </div>
 
 <!--GitHub Status-->
