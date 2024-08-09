@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/haejun0410/haejun0410/profile.gif" />
+  <img width="800px" src="https://github.com/haejun0410/haejun0410/blob/master/profile.gif" />
 </div>
 <!--언어 통계-->
 <a href="https://github.com/anuraghazra/github-readme-stats">
