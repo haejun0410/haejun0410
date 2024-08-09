@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="./logo-unscreen.gif">
+  <h3 align="center">✨ BOJ ✨</h3><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haejun0410" />
 </div>
 
