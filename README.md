@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="./logo-unscreen.gif">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haejun0410" />
 </div>
 
 <!--언어 통계-->
