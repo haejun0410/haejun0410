@@ -30,7 +30,7 @@
 </div><br>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/VSCode-394EFF.svg?style=for-the-badge&logo=virustotal&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-394EFF.svg?style=for-the-badge&logo=accenture&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 </div>
 
