@@ -2,7 +2,7 @@
 <!--로고&BOJ-->
 <div align="center">
   <img src="./logo-unscreen.gif">
-  <h3 align="center">✨ BOJ ✨</h3><br>
+  <h3 align="center">💯 BOJ 💯</h3><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haejun0410" />
 </div>
 
@@ -20,8 +20,15 @@
   <img src="https://img.shields.io/badge/opencv-5C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp<br>
   <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white" />&nbsp
-  
 </div>
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
+</div>
+
 <!--GitHub Status-->
 <h3 align="center">✨ Git Status ✨</h3><br>
 <!--언어 통계-->
