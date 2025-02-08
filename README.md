@@ -25,7 +25,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=notion&logoColor=000000" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-white.svg?style=for-the-badge&logo=notion&logoColor=000000"/>&nbsp
 </div><br>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />&nbsp
